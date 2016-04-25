@@ -1,0 +1,33 @@
+{
+  "name": "mqtt_app",
+  "version": "1.0.0",
+  "description": "Basic MQTT broker and client in Node based on this tutorial http://thejackalofjavascript.com/getting-started-mqtt/  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IoTmaker/MQTT-Mosca.git"
+  },
+  "keywords": [
+    "MQTT",
+    "Mosca",
+    "Node",
+    "Angular",
+    "IoT",
+    "MQTT",
+    "broker",
+    "Arduino",
+    "Johnny-five"
+  ],
+  "author": "Steven Bell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IoTmaker/MQTT-Mosca/issues"
+  },
+  "homepage": "https://github.com/IoTmaker/MQTT-Mosca#readme",
+  "dependencies": {
+    "mosca": "^1.2.0"
+  }
+}
